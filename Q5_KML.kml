@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+
+<Style id="s1">
+<LineStyle>
+<color>7f0000ff</color>
+<width>4</width>
+</LineStyle>
+<PolyStyle>
+<color>7f0000ff</color>
+<colorMode>normal</colorMode>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+
+<Folder>
+<name>Home</name>
+<Placemark>
+<name>Home</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28843782756627,34.02965726488069</coordinates>
+</Point>
+</Placemark>
+</Folder>
+
+<Folder>
+    <name>Libraries</name>
+    <Placemark>
+        <name>Leavey Lib</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.2830065862446,34.02164930946577</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Doheny Lib</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28437846770511,34.020315645099856</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Sci Eng Lib</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28916577348734,34.01935265041845</coordinates>
+        </Point>
+    </Placemark>
+</Folder>
+
+<Folder>
+    <name>Eateries</name>
+    <Placemark>
+        <name>RTC</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28617343690087,34.020176567168924</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Coffee Bean</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28645772449707,34.02380918302762</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Popovich Cafe</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28270740246735,34.01870719226765</coordinates>
+        </Point>
+    </Placemark>
+</Folder>
+
+<Folder>
+<name>Waterworks</name>
+    <Placemark>
+        <name>Generation Ftn</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28322298023481,34.02222022094384</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Fubon Ftn</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28504498127688,34.02525935325224</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Town Gown Ftn</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28425913422673,34.019306364222565</coordinates>
+        </Point>
+    </Placemark>
+</Folder>
+
+<Folder>
+    <name>Department Buildings</name>
+    <Placemark>
+        <name>Sol Price</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28352928172636,34.019461213642835</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Viterbi</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.2890294027685,34.02078412942031</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Annenberg</name>
+        <styleUrl>#z1</styleUrl>
+        <Point>
+            <coordinates>-118.28660200361003,34.02225703935513</coordinates>
+        </Point>
+    </Placemark>
+</Folder>
+
+<Placemark>
+	<name>Convex Hull</name>
+    <Style>
+        <LineStyle>
+            <color>ffff7d53</color>
+        </LineStyle>
+        <PolyStyle>
+            <color>80fe4d28</color>
+        </PolyStyle>
+    </Style>
+
+	<Polygon>
+		<outerBoundaryIs>
+		  <LinearRing>
+			<coordinates> 
+			  -118.28270740246735,34.01870719226765
+              -118.28916577348734,34.01935265041845
+              -118.28843782756627,34.02965726488069
+              -118.28504498127688,34.02525935325224
+              -118.28322298023481,34.02222022094384
+              -118.2830065862446,34.02164930946577
+              -118.28270740246735,34.01870719226765
+			</coordinates>
+		  </LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+
+<Placemark>
+    <name>Neighbour 1</name>
+    <description>Neighbour1</description>
+    <Style>
+        <LineStyle>
+            <color>ff0000ff</color>
+            <width>2</width>
+        </LineStyle>
+    </Style>
+    <LineString>
+        <coordinates>-118.28843782756627,34.02965726488069 -118.28504498127688,34.02525935325224</coordinates>
+    </LineString>
+</Placemark>
+
+<Placemark>
+    <name>Neighbour 2</name>
+    <description>Neighbour2</description>
+    <Style>
+        <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+        </LineStyle>
+    </Style>
+    <LineString>
+        <coordinates>-118.28843782756627,34.02965726488069 -118.28645772449707,34.02380918302762</coordinates>
+    </LineString>
+</Placemark>
+
+<Placemark>
+    <name>Neighbour 3</name>
+    <description>Neighbour3</description>
+    <Style>
+        <LineStyle>
+            <color>ff0000ff</color>
+            <width>2</width>
+        </LineStyle>
+    </Style>
+    <LineString>
+        <coordinates>-118.28843782756627,34.02965726488069 -118.28660200361003,34.02225703935513</coordinates>
+    </LineString>
+</Placemark>
+
+<Placemark>
+    <name>Neighbour 4</name>
+    <description>Neighbour4</description>
+    <Style>
+        <LineStyle>
+            <color>ff0000ff</color>
+            <width>2</width>
+        </LineStyle>
+    </Style>
+    <LineString>
+        <coordinates>-118.28843782756627,34.02965726488069 -118.2890294027685,34.02078412942031</coordinates>
+    </LineString>
+</Placemark>
+
+</Document>
+</kml>
