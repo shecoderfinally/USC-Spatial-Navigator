@@ -11,10 +11,10 @@ Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirogra
 2. [Queries.sql](./Postgres_Queries/Queries.sql)
 
 ### Screenshots
-1. [Q3](./ScreenShots/Q3.png)
-2. [Q5a_ConvexHull](./ScreenShots/Q5a_ConvexHull.png)
-3. [Q5b_Nearest_Neighbor](./ScreenShots/Q5b_Nearest_Neighbor.png)
-4. [Q6](./ScreenShots/Q6.png)
+1. [Q3](./Screenshots/Q3.png)
+2. [Q5a_ConvexHull](./Screenshots/Q5a_ConvexHull.png)
+3. [Q5b_Nearest_Neighbor](./Screenshots/Q5b_Nearest_Neighbor.png)
+4. [Q6](./Screenshots/Q6.png)
 
 ### Selfies
 1. Location1- Annenberg
@@ -32,10 +32,10 @@ Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirogra
 13. Location13- Viterbi
 
 ### SpiroPlot
-1. [ArcGIS Screenshot](SpiroPlot/ArcGIS_Screenshot.png)
-2. [Shapefile Zip](SpiroPlot/Shapefile.zip)
+1. [ArcGIS Screenshot](SpiroPlot/ArcGIS.png)
+2. [Shapefile Zip](SpiroPlot/shapefile.zip)
 3. [Spiro.kml](SpiroPlot/Spiro.kml)
-4. [SpiroPlot.py](SpiroPlot/SpiroPlot.py)
+4. [SpiroPlot.py](SpiroPlot/SpiroPlot.PNG)
 
 ### HTML
 - [OL.html](OL.html)
