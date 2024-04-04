@@ -2,7 +2,7 @@
 Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirograph™ curve around Tommy Trojan using PostGIS, OpenLayers, and ArcGIS Online. Demonstrating expertise in GIS and precise spatial quantification. 
 
 # Image
-![Dashboard](./Screenshots/Dashboard.PNG)
+![Dashboard](./Screenshots/Readme.PNG)
 
 ## Project Index
 
