@@ -4,7 +4,7 @@ Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirogra
 ## Project Index
 
 ### Queries
-1. [Queries.txt](Queries.txt)
+1. [Queries.txt](./Queries.txt)
 2. [Queries.sql](Queries.sql)
 
 ### Screenshots
