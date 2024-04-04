@@ -8,10 +8,10 @@ Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirogra
 2. [Queries.sql](./Postgres_Queries/Queries.sql)
 
 ### Screenshots
-1. [Q3](./Screenshots/Q3.png)
-2. [Q5a_ConvexHull](./Screenshots/Q5a_ConvexHull.png)
-3. [Q5b_Nearest_Neighbor](./Screenshots/Q5b_Nearest_Neighbor.png)
-4. [Q6](./Screenshots/Q6.png)
+1. [Q3](./ScreenShots/Q3.png)
+2. [Q5a_ConvexHull](./ScreenShots/Q5a_ConvexHull.png)
+3. [Q5b_Nearest_Neighbor](./ScreenShots/Q5b_Nearest_Neighbor.png)
+4. [Q6](./ScreenShots/Q6.png)
 
 ### Selfies
 1. [Annenberg](Selfies/Annenberg.png)
