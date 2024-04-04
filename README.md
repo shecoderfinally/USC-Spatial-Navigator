@@ -17,19 +17,19 @@ Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirogra
 4. [Q6](./ScreenShots/Q6.png)
 
 ### Selfies
-1. [Annenberg](Selfies/Annenberg.png)
-2. [Coffee Bean](Selfies/Coffee_Bean.png)
-3. [Doheny Library](Selfies/Doheny_Library.png)
-4. [Fubon Fountain](Selfies/Fubon_Fountain.png)
-5. [Generation Fountain](Selfies/Generation_Fountain.png)
-6. [Home](Selfies/Home.png)
-7. [Leavey Library](Selfies/Leavey_Library.png)
-8. [Popovich Cafe](Selfies/Popovich_Cafe.png)
-9. [RTC](Selfies/RTC.png)
-10. [Sci Eng Library](Selfies/Sci_Eng_Library.png)
-11. [Sol Price](Selfies/Sol_Price.png)
-12. [Town and Gown Fountain](Selfies/Town_and_Gown_Fountain.png)
-13. [Viterbi](Selfies/Viterbi.png)
+1. Location1- Annenberg
+2. Location2- Coffee Bean
+3. Location3- Doheny Library
+4. Location4- Fubon Fountain
+5. Location5- Generation Fountain
+6. Location6- Home
+7. Location7- Leavey Library
+8. Location8- Popovich Cafe
+9. Location9- RTC
+10. Location10- Sci Eng Library
+11. Location11- Sol Price
+12. Location12- Town and Gown Fountain
+13. Location13- Viterbi
 
 ### SpiroPlot
 1. [ArcGIS Screenshot](SpiroPlot/ArcGIS_Screenshot.png)
