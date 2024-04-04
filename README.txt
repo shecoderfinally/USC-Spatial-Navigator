@@ -1,39 +1,38 @@
-Hello Grader!
-I hope your well.This is an index to help you locate the required files with ease.
+## Project Index
 
-|---------------INDEX------------------|
+### Queries
+1. [Queries.txt](Queries.txt)
+2. [Queries.sql](Queries.sql)
 
---------------Queries------------
-1)Queries.txt
-2)Queries.sql
+### Screenshots
+1. [Q3](Screenshots/Q3.png)
+2. [Q5a_ConvexHull](Screenshots/Q5a_ConvexHull.png)
+3. [Q5b_Nearest_Neighbor](Screenshots/Q5b_Nearest_Neighbor.png)
+4. [Q6](Screenshots/Q6.png)
 
-----------Screenshots------------
-1) Q3
-2) Q5a_ConvexHull
-3) Q5b_Nearest_Neighbor
-4) Q6
+### Selfies
+1. [Annenberg](Selfies/Annenberg.png)
+2. [Coffee Bean](Selfies/Coffee_Bean.png)
+3. [Doheny Library](Selfies/Doheny_Library.png)
+4. [Fubon Fountain](Selfies/Fubon_Fountain.png)
+5. [Generation Fountain](Selfies/Generation_Fountain.png)
+6. [Home](Selfies/Home.png)
+7. [Leavey Library](Selfies/Leavey_Library.png)
+8. [Popovich Cafe](Selfies/Popovich_Cafe.png)
+9. [RTC](Selfies/RTC.png)
+10. [Sci Eng Library](Selfies/Sci_Eng_Library.png)
+11. [Sol Price](Selfies/Sol_Price.png)
+12. [Town and Gown Fountain](Selfies/Town_and_Gown_Fountain.png)
+13. [Viterbi](Selfies/Viterbi.png)
 
-----------Selfies----------------
-1) Annenberg
-2) Coffee Bean
-3) Doheny Library
-4) Fubon Fountain
-5) Generation Fountain
-6) Home
-7) Leavey Library
-8) Popovich Cafe
-9) RTC
-10) Sci Eng Library
-11) Sol Price
-12) Town and Gown Fountain
-13) Viterbi
+### SpiroPlot
+1. [ArcGIS Screenshot](SpiroPlot/ArcGIS_Screenshot.png)
+2. [Shapefile Zip](SpiroPlot/Shapefile.zip)
+3. [Spiro.kml](SpiroPlot/Spiro.kml)
+4. [SpiroPlot.py](SpiroPlot/SpiroPlot.py)
 
---------SpiroPlot-----------------
-1)ArcGIS Screenshot
-2)Shapefile Zip
-3)Spiro.kml
-4)SpiroPlot.py
+### HTML
+- [OL.html](OL.html)
 
------------HTML-------------------
-OL.html
-Jsfiddle Link: https://jsfiddle.net/SanaiDivadkar/5f42wy31/7/
+#### Additional Resources
+- [Jsfiddle Link](https://jsfiddle.net/SanaiDivadkar/5f42wy31/7/)
