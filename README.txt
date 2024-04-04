@@ -1,3 +1,6 @@
+## Introduction
+Led advanced geo-spatial analyses on 13 USC sites and created a complex Spirograph™ curve around Tommy Trojan using PostGIS, OpenLayers, and ArcGIS Online. Demonstrating expertise in GIS and precise spatial quantification. 
+
 ## Project Index
 
 ### Queries
@@ -33,6 +36,15 @@
 
 ### HTML
 - [OL.html](OL.html)
+
+## Contributing
+
+Contributions to Othello Odyssey are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. Bug reports, feature requests, and feedback are also appreciated and can be submitted via the [issue tracker](https://github.com/shecoderfinally/Othello-Odyssey/issues).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shecoderfinally/Othello-Odyssey/blob/main/LICENSE) file for details.
+
 
 #### Additional Resources
 - [Jsfiddle Link](https://jsfiddle.net/SanaiDivadkar/5f42wy31/7/)
